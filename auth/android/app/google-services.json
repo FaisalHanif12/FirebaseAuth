@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430410541151",
+    "project_id": "faisal-8d03c",
+    "storage_bucket": "faisal-8d03c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430410541151:android:664618dc13dcafe73c13ea",
+        "android_client_info": {
+          "package_name": "com.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430410541151-25mkdl3u7ff8e2c66qvtllbm39a0c3qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIlN_HCKHLT5uY1oULjAYWrtkjTaarzE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430410541151-25mkdl3u7ff8e2c66qvtllbm39a0c3qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
